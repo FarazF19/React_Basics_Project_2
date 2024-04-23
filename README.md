@@ -1,3 +1,4 @@
+
 # Password Generator App
 
 The Password Generator App is a simple React application that allows users to generate random passwords based on specified criteria such as length and character types.
@@ -44,3 +45,4 @@ This app utilizes React state management and hooks to dynamically generate passw
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
